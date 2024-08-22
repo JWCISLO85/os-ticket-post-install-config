@@ -28,7 +28,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 
-<h2>Configuration Roles </h2>
+<h2>Configure Roles </h2>
 
 
 ![creating roles](https://github.com/user-attachments/assets/c0f523d7-7959-4620-8235-625a673a89ca)
@@ -36,7 +36,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ![added supreme admin role](https://github.com/user-attachments/assets/031e25c7-a1ca-4fa0-a32c-587b53c5efb6)
 
-Added a supreme admin role. Admin Panel > Agents > Roles > Add New Role
+Added a supreme admin role. Admin Panel -> Agents -> Roles -> Add New Role
 </p>
 
 
@@ -49,6 +49,7 @@ Added a supreme admin role. Admin Panel > Agents > Roles > Add New Role
 
 ![system admin department](https://github.com/user-attachments/assets/00bcbf8d-9960-45b3-a88c-0d3a8c34a814)
 
+Added a system admin department. Admin Panel -> Agents -> Departments
 <p>
 
 <br />
