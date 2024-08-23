@@ -71,6 +71,13 @@ Added Jane and Jon. Admin Panel -> Agents -> Add New
 
 ![added SLAS](https://github.com/user-attachments/assets/99a010c0-58a8-4101-bda7-7b6161905e04)
 
+ Added three Service Level Agreements.
+ Sev-A (1 hour, 24/7)
+ Sev-B (4 hours, 24/7)
+ Sev-C (8 hours, business hours)
+ Admin Panel -> Manage -> SLA
+ 
+
 <p>
 
 <br />
