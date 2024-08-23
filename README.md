@@ -4,7 +4,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This is project that I did that helped to understand ticketing sytems. I configured a number settings to simulate a real world scenario. osTicket.<br />
+This is project that I did that helped to understand ticketing sytems. I configured a number settings to simulate a real world scenario.<br />
 
 
 <h2>Environments and Technologies Used</h2>
