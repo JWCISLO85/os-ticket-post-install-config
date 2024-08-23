@@ -64,6 +64,13 @@ Added Level l and Level ll support teams. Admin Panel -> Agents -> Teams
 ![adding agents](https://github.com/user-attachments/assets/085c907e-aa69-473b-bb8a-2911e41ccc91)
 
 Added Jane and Jon. Admin Panel -> Agents -> Add New
+
+
+
+<h2>Configure SLA </h2>
+
+![added SLAS](https://github.com/user-attachments/assets/99a010c0-58a8-4101-bda7-7b6161905e04)
+
 <p>
 
 <br />
