@@ -4,7 +4,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This is project that I did thats outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+This is project that I did that outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
 <h2>Environments and Technologies Used</h2>
