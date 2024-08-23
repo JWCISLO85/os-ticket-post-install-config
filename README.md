@@ -50,6 +50,20 @@ Added a supreme admin role. Admin Panel -> Agents -> Roles -> Add New Role
 ![system admin department](https://github.com/user-attachments/assets/00bcbf8d-9960-45b3-a88c-0d3a8c34a814)
 
 Added a system admin department. Admin Panel -> Agents -> Departments
+
+
+<h2>Configure Teams </h2>
+
+
+![created team](https://github.com/user-attachments/assets/24a1c65c-3479-4425-aa6b-4c7e02523168)
+
+Added Level l and Level ll support teams. Admin Panel -> Agents -> Teams
+
+<h2> Configure Agents (Workers) </h2>
+
+![adding agents](https://github.com/user-attachments/assets/085c907e-aa69-473b-bb8a-2911e41ccc91)
+
+Added Jane and Jon. Admin Panel -> Agents -> Add New
 <p>
 
 <br />
